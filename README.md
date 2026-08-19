@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/jaygowda7/LeetcodePractise/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/jaygowda7/LeetcodePractise/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaygowda7/LeetcodePractise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/jaygowda7/LeetcodePractise/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/jaygowda7/LeetcodePractise/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/jaygowda7/LeetcodePractise/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaygowda7/LeetcodePractise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/jaygowda7/LeetcodePractise/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
