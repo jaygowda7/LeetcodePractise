@@ -15,7 +15,7 @@ class Solution {
         else arr2.add(nums[i]);
        }
 
-        int res[]=new int[n];
+        int []res=new int[n];
         int id=0;
         for(int x:arr1) res[id++]=x;
         for(int x:arr2) res[id++]=x;
