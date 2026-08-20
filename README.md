@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaygowda7/LeetcodePractise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/jaygowda7/LeetcodePractise/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/jaygowda7/LeetcodePractise/tree/master/0977-squares-of-a-sorted-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/jaygowda7/LeetcodePractise/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaygowda7/LeetcodePractise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/jaygowda7/LeetcodePractise/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
