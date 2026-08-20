@@ -13,10 +13,10 @@ class Solution {
            else arr2.add(nums[i]);
         }
         int index=0;
+        int []res=new int[n];
+        for(int x:arr1) res[index++]=x;
+        for(int x:arr2) res[index++]=x;
 
-        for(int x:arr1) nums[index++]=x;
-        for(int x:arr2) nums[index++]=x;
-
-        return nums;
+        return res;
     }
 }
