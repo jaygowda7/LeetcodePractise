@@ -12,13 +12,11 @@ class Solution {
            if (l1>l2) arr1.add(nums[i]);
            else arr2.add(nums[i]);
         }
-
-        int res[]=new int[n];
         int index=0;
 
-        for(int x:arr1) res[index++]=x;
-        for(int x:arr2) res[index++]=x;
+        for(int x:arr1) nums[index++]=x;
+        for(int x:arr2) nums[index++]=x;
 
-        return res;
+        return nums;
     }
 }
