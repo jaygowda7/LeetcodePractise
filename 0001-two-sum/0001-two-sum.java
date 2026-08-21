@@ -7,11 +7,11 @@ class Solution {
             int compliment = target-nums[i];
 
             if(maps.containsKey(compliment)){
-                return new int [] {maps.get(compliment),i};
+                return new int[] {maps.get(compliment),i};
             }
             maps.put(nums[i],i);
         }
 
-        return new int [] {};
+        return new int[] {};
     }
 }
