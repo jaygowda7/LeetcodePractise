@@ -4,10 +4,8 @@ class Solution {
         int product=1;
         int left=0;
         int ans=0;
-
         for(int right=0;right<nums.length;right++){
             product*=nums[right];
-
             while(product>=k){
                 product/=nums[left++];
             }
