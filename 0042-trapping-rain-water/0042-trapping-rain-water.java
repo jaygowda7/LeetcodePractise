@@ -3,7 +3,6 @@ class Solution {
         int left=0;
         int right=height.length-1;
         int water=0;
-
         int leftmax=height[left];
         int rightmax=height[right];
         while(left<right){
