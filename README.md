@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/jaygowda7/LeetcodePractise/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/jaygowda7/LeetcodePractise/tree/master/0977-squares-of-a-sorted-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/jaygowda7/LeetcodePractise/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jaygowda7/LeetcodePractise/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/jaygowda7/LeetcodePractise/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/jaygowda7/LeetcodePractise/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/jaygowda7/LeetcodePractise/tree/master/0009-palindrome-number) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jaygowda7/LeetcodePractise/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Recursion
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaygowda7/LeetcodePractise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/jaygowda7/LeetcodePractise/tree/master/0209-minimum-size-subarray-sum) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jaygowda7/LeetcodePractise/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Simulation
 |  |
 | ------- |
@@ -100,4 +103,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jaygowda7/LeetcodePractise/tree/master/0042-trapping-rain-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jaygowda7/LeetcodePractise/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jaygowda7/LeetcodePractise/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Number Theory
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jaygowda7/LeetcodePractise/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
