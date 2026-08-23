@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/jaygowda7/LeetcodePractise/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/jaygowda7/LeetcodePractise/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/jaygowda7/LeetcodePractise/tree/master/0009-palindrome-number) |
+| [1927-sum-game](https://github.com/jaygowda7/LeetcodePractise/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jaygowda7/LeetcodePractise/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/jaygowda7/LeetcodePractise/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/jaygowda7/LeetcodePractise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/jaygowda7/LeetcodePractise/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/jaygowda7/LeetcodePractise/tree/master/0344-reverse-string) |
+| [1927-sum-game](https://github.com/jaygowda7/LeetcodePractise/tree/master/1927-sum-game) |
 ## Sliding Window
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jaygowda7/LeetcodePractise/tree/master/0011-container-with-most-water) |
+| [1927-sum-game](https://github.com/jaygowda7/LeetcodePractise/tree/master/1927-sum-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -120,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jaygowda7/LeetcodePractise/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/jaygowda7/LeetcodePractise/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
