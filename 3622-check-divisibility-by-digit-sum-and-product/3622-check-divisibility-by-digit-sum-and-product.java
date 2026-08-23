@@ -5,13 +5,13 @@ class Solution {
         int ori=n;
 
         while(n>0){
-            int digit= n % 10;
-
+            int digit = n % 10;
             sum+=digit;
             product*=digit;
+
             n/=10;
         }
 
-        return (ori %(sum+product)==0)?true:false;
+        return (ori % (sum+product) ==0 ) ? true:false;
     }
 }
