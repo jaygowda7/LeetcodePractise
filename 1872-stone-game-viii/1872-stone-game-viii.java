@@ -1,6 +1,5 @@
 class Solution {
     public int stoneGameVIII(int[] stones) {
-
         int n=stones.length;
         int[] pre=new int[n];
         pre[0]=stones[0];
