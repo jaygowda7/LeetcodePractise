@@ -8,11 +8,8 @@ class Solution {
         for(int i=2;i<n;i++){
             int num1=arr1.get(arr1.size()-1);
             int num2=arr2.get(arr2.size()-1);
-            if(num1>num2){
-                arr1.add(nums[i]);
-            }else{
-                arr2.add(nums[i]);
-            }
+            if(num1>num2) arr1.add(nums[i]);
+            else arr2.add(nums[i]);
         }
         int []res=new int[n];
         int id=0;
