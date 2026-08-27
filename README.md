@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/jaygowda7/LeetcodePractise/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jaygowda7/LeetcodePractise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/jaygowda7/LeetcodePractise/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/jaygowda7/LeetcodePractise/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Linked List
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/jaygowda7/LeetcodePractise/tree/master/0344-reverse-string) |
 | [1927-sum-game](https://github.com/jaygowda7/LeetcodePractise/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/jaygowda7/LeetcodePractise/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/jaygowda7/LeetcodePractise/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/jaygowda7/LeetcodePractise/tree/master/0011-container-with-most-water) |
 | [1927-sum-game](https://github.com/jaygowda7/LeetcodePractise/tree/master/1927-sum-game) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/jaygowda7/LeetcodePractise/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -144,4 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/jaygowda7/LeetcodePractise/tree/master/1872-stone-game-viii) |
+## Counting
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/jaygowda7/LeetcodePractise/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Enumeration
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/jaygowda7/LeetcodePractise/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
