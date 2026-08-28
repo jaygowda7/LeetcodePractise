@@ -5,7 +5,6 @@ class Solution {
         int ri=height.length-1;
         int lemax=height[0];
         int rimax=height[ri];
-
         while(le<ri){
             if(lemax<rimax){
                 le++;
