@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/jaygowda7/LeetcodePractise/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/jaygowda7/LeetcodePractise/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/jaygowda7/LeetcodePractise/tree/master/0977-squares-of-a-sorted-array) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/jaygowda7/LeetcodePractise/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/jaygowda7/LeetcodePractise/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/jaygowda7/LeetcodePractise/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/jaygowda7/LeetcodePractise/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/jaygowda7/LeetcodePractise/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -155,4 +157,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/jaygowda7/LeetcodePractise/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/jaygowda7/LeetcodePractise/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
