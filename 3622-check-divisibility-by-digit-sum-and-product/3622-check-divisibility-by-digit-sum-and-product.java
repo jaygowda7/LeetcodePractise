@@ -4,11 +4,11 @@ class Solution {
        int pro=1;
        int ori=n;
        while(n>0){
-        int digit=n%10;
-        sum+=digit;
-        pro*=digit;
+        int di=n%10;
+        sum+=di;
+        pro*=di;
         n/=10;
        }
-       return (ori % (sum+pro)==0)?true:false;
+       return (ori%(sum+pro)==0)?true:false;
     }
 }
