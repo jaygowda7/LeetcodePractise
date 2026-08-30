@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/jaygowda7/LeetcodePractise/tree/master/0713-subarray-product-less-than-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/jaygowda7/LeetcodePractise/tree/master/0977-squares-of-a-sorted-array) |
 | [1872-stone-game-viii](https://github.com/jaygowda7/LeetcodePractise/tree/master/1872-stone-game-viii) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/jaygowda7/LeetcodePractise/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jaygowda7/LeetcodePractise/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jaygowda7/LeetcodePractise/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/jaygowda7/LeetcodePractise/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/jaygowda7/LeetcodePractise/tree/master/0011-container-with-most-water) |
 | [1927-sum-game](https://github.com/jaygowda7/LeetcodePractise/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/jaygowda7/LeetcodePractise/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/jaygowda7/LeetcodePractise/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Binary Search
 |  |
