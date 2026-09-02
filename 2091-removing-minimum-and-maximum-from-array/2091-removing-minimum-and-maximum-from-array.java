@@ -12,10 +12,9 @@ class Solution {
         }
         int le=Math.min(min,max);
         int ri=Math.max(min,max);
-
         int front=ri+1;
         int back=n-le;
-        int both=(le+1)+(n-ri);
-        return Math.min(front,Math.min(back,both));
+        int fromboth=(le+1)+(n-ri);
+        return Math.min(front,Math.min(back,fromboth));
     }
 }
