@@ -1,6 +1,5 @@
 class Solution {
     public boolean uniformArray(int[] nums1) {
-
         int min=nums1[0];
         int oddC=0;
         for(int i:nums1){
