@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/jaygowda7/LeetcodePractise/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/jaygowda7/LeetcodePractise/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/jaygowda7/LeetcodePractise/tree/master/0344-reverse-string) |
+| [0940-distinct-subsequences-ii](https://github.com/jaygowda7/LeetcodePractise/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/jaygowda7/LeetcodePractise/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/jaygowda7/LeetcodePractise/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jaygowda7/LeetcodePractise/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jaygowda7/LeetcodePractise/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/jaygowda7/LeetcodePractise/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/jaygowda7/LeetcodePractise/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/jaygowda7/LeetcodePractise/tree/master/1872-stone-game-viii) |
 ## Stack
 |  |
