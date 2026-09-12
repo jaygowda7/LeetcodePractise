@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jaygowda7/LeetcodePractise/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/jaygowda7/LeetcodePractise/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jaygowda7/LeetcodePractise/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/jaygowda7/LeetcodePractise/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jaygowda7/LeetcodePractise/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/jaygowda7/LeetcodePractise/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/jaygowda7/LeetcodePractise/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/jaygowda7/LeetcodePractise/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/jaygowda7/LeetcodePractise/tree/master/0977-squares-of-a-sorted-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jaygowda7/LeetcodePractise/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/jaygowda7/LeetcodePractise/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Quicksort
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/jaygowda7/LeetcodePractise/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/jaygowda7/LeetcodePractise/tree/master/0713-subarray-product-less-than-k) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jaygowda7/LeetcodePractise/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/jaygowda7/LeetcodePractise/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Simulation
 |  |
 | ------- |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/jaygowda7/LeetcodePractise/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/jaygowda7/LeetcodePractise/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/jaygowda7/LeetcodePractise/tree/master/1872-stone-game-viii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/jaygowda7/LeetcodePractise/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Stack
 |  |
 | ------- |
