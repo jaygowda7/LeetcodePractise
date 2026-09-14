@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/jaygowda7/LeetcodePractise/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/jaygowda7/LeetcodePractise/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/jaygowda7/LeetcodePractise/tree/master/0009-palindrome-number) |
+| [0836-rectangle-overlap](https://github.com/jaygowda7/LeetcodePractise/tree/master/0836-rectangle-overlap) |
 | [1872-stone-game-viii](https://github.com/jaygowda7/LeetcodePractise/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/jaygowda7/LeetcodePractise/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jaygowda7/LeetcodePractise/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -227,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/jaygowda7/LeetcodePractise/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/jaygowda7/LeetcodePractise/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
